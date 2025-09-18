@@ -26,4 +26,4 @@ EvoPC宣伝用ゲーム
 | メニューを開く4 | [効果音ラボ](https://soundeffect-lab.info/sound/button/)  |
 | データ表示3     | [効果音ラボ](https://soundeffect-lab.info/sound/button/)  |
 | mist            | [Amacha Music](https://amachamusic.chagasi.com/genre_techno3.html) |
-| マキナス 4      | [Makinas](https://moji-waku.com/makinas/)                |
+| マキナス 4 Square | [Makinas](https://moji-waku.com/makinas/)                |
