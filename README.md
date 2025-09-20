@@ -18,6 +18,11 @@ EvoPC宣伝用ゲーム
 |  Unity  |  2022.3.20f1  |
 |  VisualStudio  |  2022  |
 
+|  PakageName  |  Version  |
+| ---- | ---- |
+|  UniRx  |  7.1.0  |
+|  UniTask  |  2.5.4  |
+
 # 使用アセット
 
 | AssetName       | URL                                                       |
@@ -27,3 +32,4 @@ EvoPC宣伝用ゲーム
 | データ表示3     | [効果音ラボ](https://soundeffect-lab.info/sound/button/)  |
 | mist            | [Amacha Music](https://amachamusic.chagasi.com/genre_techno3.html) |
 | マキナス 4 Square | [Makinas](https://moji-waku.com/makinas/)                |
+| Noto Sans Japanese | [GoogleFonts](https://fonts.google.com/noto/specimen/Noto+Sans+JP)                |
