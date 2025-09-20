@@ -18,6 +18,7 @@ public class TitleManager : SingletonMonoBehaviour<TitleManager>
         });
         await FadeManager.Instance.FadeIn();
     }
+    //ライセンス用のScroll Viewの表示切替
     private void ViewLicense()
     {
         if (_slideObj.activeSelf == false)

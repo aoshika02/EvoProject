@@ -9,6 +9,7 @@ public class ResutView : SingletonMonoBehaviour<ResutView>
     {
         _result.SetActive(false);
     }
+    //リザルトの表示
     public void Show(int succesCount)
     {
         SoundManager.Instance.PlaySE(SoundType.ViewQuizEnd);

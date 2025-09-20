@@ -12,6 +12,7 @@ public class TimerView : SingletonMonoBehaviour<TimerView>
             UpdateTimerText(time);
         }).AddTo(this);
     }
+    //タイマーの更新に応じてUIを更新
     private void UpdateTimerText(int time)
     {
         var min = time / 60;
