@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 879fd84f77d993b4b8d3d0810db7015a, type: 3}
+  m_Name: QuizDataScriptableObject
+  m_EditorClassIdentifier: 
+  QuizDatas:
+  - QuizImage: {fileID: 21300000, guid: e141a6f1046998445bb4ae56699726a2, type: 3}
+    AnswerImage: {fileID: 21300000, guid: a999916785dda964e9c8ccd0d64cb25a, type: 3}
+    AnswerIndex: 1
+  - QuizImage: {fileID: 21300000, guid: f8e04b0659a8ded45a7fe9843aa4e890, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 8fd33698ae06c9442aa291f2c41ebcce, type: 3}
+    AnswerIndex: 1
+  - QuizImage: {fileID: 21300000, guid: 22789d5b59dd8574a8a3e7416d2abcf2, type: 3}
+    AnswerImage: {fileID: 21300000, guid: b3c53cbd72dc3904c84770d021cdea76, type: 3}
+    AnswerIndex: 2
+  - QuizImage: {fileID: 21300000, guid: b69a35c0208d88947adf426f951b1a13, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 22d90234c209d8445a5bf3878eab8310, type: 3}
+    AnswerIndex: 2
+  - QuizImage: {fileID: 21300000, guid: a5c229a27e4ac7644aec9d986ffae0d0, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 4e77ade8532c216458806559be8624c8, type: 3}
+    AnswerIndex: 1
+  - QuizImage: {fileID: 21300000, guid: 1a3fbba8055d4d740a806686ebb27ca5, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 1d8acff94d75aee478e3ebfcd0d2fefa, type: 3}
+    AnswerIndex: 1
+  - QuizImage: {fileID: 21300000, guid: 32ce6811547a9c34f94553087cd17cdb, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 5d9785349edbe09408050397376a2ed2, type: 3}
+    AnswerIndex: 1
+  - QuizImage: {fileID: 21300000, guid: 6c33fc093a419a446ad0e822f1f08910, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 08c60702e151d02499db255a1e0a021c, type: 3}
+    AnswerIndex: 2
+  - QuizImage: {fileID: 21300000, guid: d29d48c6a5155ad44a5f7704284857c4, type: 3}
+    AnswerImage: {fileID: 21300000, guid: dfa8d3ab36269ec488375d4b26b14918, type: 3}
+    AnswerIndex: 1
+  - QuizImage: {fileID: 21300000, guid: 90f20eb0fac68aa4b8b40c444242eb57, type: 3}
+    AnswerImage: {fileID: 21300000, guid: c10b8242573aca2479c16635eea06fa7, type: 3}
+    AnswerIndex: 2
+  - QuizImage: {fileID: 21300000, guid: 9699732123ecdeb4ea4158347e052a86, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 29930cf32efb704479b4de7c32dfea01, type: 3}
+    AnswerIndex: 1
+  - QuizImage: {fileID: 21300000, guid: db169e3162597bc4c8a39969287b3d8c, type: 3}
+    AnswerImage: {fileID: 21300000, guid: b4f6f064ac5f4c14b9eb76f223f53f60, type: 3}
+    AnswerIndex: 2
+  - QuizImage: {fileID: 21300000, guid: 84f1441333fd03a439489dcb42304e9d, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 5f6d5e6f1d8d20640b811b2cbd5f31c1, type: 3}
+    AnswerIndex: 0
+  - QuizImage: {fileID: 21300000, guid: 8afb47b232469dc47aabdf0d21aaeea2, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 05b728608e3274b4abefd871a7b6ca1b, type: 3}
+    AnswerIndex: 2
+  - QuizImage: {fileID: 21300000, guid: b282114c9df9f2e4e94fe5fea36ddf64, type: 3}
+    AnswerImage: {fileID: 21300000, guid: bc5586593d2d87a4896ac042c3f5dab3, type: 3}
+    AnswerIndex: 2
+  - QuizImage: {fileID: 21300000, guid: 09c4a8fb2d31c4345a7cc5a4fc523af6, type: 3}
+    AnswerImage: {fileID: 21300000, guid: cb5d89a723c35b54bad62fca6aab25a0, type: 3}
+    AnswerIndex: 1
+  - QuizImage: {fileID: 21300000, guid: 4cd9f1c73f08d754f80805d30169042d, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 4282a00be4403e544b35c2a7d5dc4714, type: 3}
+    AnswerIndex: 1
+  - QuizImage: {fileID: 21300000, guid: b4fe7ab8452e84447ba03b826682382f, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 9cff94fa652ae174bb32342d2a6c3ab7, type: 3}
+    AnswerIndex: 1
+  - QuizImage: {fileID: 21300000, guid: edf0c3228a0c6ee49899a00e5e08b583, type: 3}
+    AnswerImage: {fileID: 21300000, guid: 086defd93913de744bb469634f10ff6e, type: 3}
+    AnswerIndex: 2
+  - QuizImage: {fileID: 21300000, guid: a813f986b8e81d242a04ef04f0377c4b, type: 3}
+    AnswerImage: {fileID: 21300000, guid: c7490da68b4bfc540a0bc55eef654a87, type: 3}
+    AnswerIndex: 1

@@ -1,0 +1,249 @@
+UniTask
+
+
+
+The MIT License (MIT)
+
+
+
+Copyright (c) 2019 Yoshifumi Kawai / Cysharp, Inc.
+
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+
+
+UniRx
+
+
+
+The MIT License (MIT)
+
+
+
+Copyright (c) 2018 Yoshifumi Kawai
+
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+ 
+
+
+
+OtoLogic
+
+CC BY 4.0
+
+Copyright © 2012-2025 OtoLogic
+
+・利用者を問いません（個人・団体・法人、国籍や所在地など）
+・利用するメディアの種類を問いません（動画・ラジオ・ゲームなど）
+・権利者と連絡を取る必要がありません（許可申請・使用報告など）
+・営利目的の利用も問題ありません（商業・収益化利用など）
+・利用する作品の内容を問いません（年齢制限のある表現など）
+・素材の改変も問題ありません（編集・加工・編曲など）
+
+利用条件は「クレジット表記をすれば無料」とシンプルです。
+
+当サイトの素材を使って、あなたが制作した作品を公開するときに、
+「OtoLogicの素材を使用している」ことが伝わる表示（権利者表記）
+を一緒につけてください。
+
+
+
+効果音ラボ
+
+当サイトの音声ファイル（MP3形式）をダウンロードした時点で、
+下記規約に同意したものとみなします。規約は予告なく変更する場合があります。
+
+規約
+
+使用にあたっての報告、リンク、クレジット表記不要（禁止ではなく任意）
+アダルト作品、公序良俗に反する作品、違法行為に利用することを禁止
+個人、法人（商用利用）、公的機関問わず無料で使用可能
+再配布禁止
+※許可できる場合あり（企業様限定）。効果音が重要な役割を果たすコンテンツも再配布に該当（後述）。
+効果音を改変して利用することは問題ないが、改変したものを再配布することは禁止
+声素材について、声優の尊厳を傷つけたり、声優が被害を被る使い方を禁止
+効果音ファイルへの直リンク禁止
+AI学習用のデータとして利用することは禁止
+他者の効果音利用に影響する恐れがある行為は禁止
+例1）効果音を使用した音楽を、YouTubeでContent ID登録することは禁止
+登録した場合に起こりうる問題
+他の人がその曲と同じ効果音を使った動画を公開すると、
+AIに「登録楽曲の一部を使っている動画」と判定され動画の収益が減るなどの可能性があります。
+Content IDに限らず、他者の効果音利用に影響する恐れがあるサービスへの作品登録はお控えください
+例2）効果音を使用したコンテンツの音商標登録は禁止
+効果音を利用したことでトラブルが生じても、効果音ラボ管理者は一切の責任を負わない
+
+
+
+甘茶の音楽工房
+
+Copyright (C) 2025 WEB・動画・ゲーム・アプリ・ラジオに使えるフリー音楽素材『甘茶の音楽工房』. All Rights Reserved.
+
+●公開中の音楽素材は、商用利用、個人利用問わず利用できます。
+●音楽素材は、ウェブ、映像、ゲーム、ラジオなど、何かのBGMとしてお使い下さい。
+●音楽だけを販売したり、2次配布することは禁止です。
+●著作権は放棄しておりません。楽曲の著作権は甘茶にあります。
+●作曲者を偽る行為（自分で作った曲のように見せかける行為）は禁止です。
+●楽曲を使用した作品を、JASRACなど著作権管理団体に登録することはできません。
+●ご利用の際に生じたいかなる損害損失に対しても当サイトは一切責任を負いません。
+
+
+
+マキナス 4 Square
+
+ゲーム・アプリケーション
+○：コンテンツ内での画像としての文字表示
+○：文字編集機能・システムフォントとしての使用
+
+禁止事項
+×：無断での2次配布・転売
+×：フォントデータの改変及び、改変データの配布
+×：書籍等の付録として各種記録メディアでの配布　
+※2016年より、配布はインターネットのみとさせていただきました。
+×：オープンソースフォントであると誤解を招くような表記・分類
+
+
+
+Noto Sans Japanese
+
+
+
+Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
